@@ -1,1 +1,2 @@
-# election_story
+# 선거 스토리
+
