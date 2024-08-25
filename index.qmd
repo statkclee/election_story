@@ -1,0 +1,81 @@
+---
+format:
+  closeread-html:
+    remove-header-space: true
+---
+
+<!--------------------------------Intro Stuff!--------------------------------->
+
+::: cr-section
+<callout>대한민국 선거</callout>
+
+@cr-intro
+
+::: {#cr-intro}
+<callout>대한민국 선거일정</callout> ![](images/timeline_viz.png)
+:::
+
+<!-----------------------------제16대 선거--------------------------------------->
+<callout>제16대 대선</callout> @cr-intro
+
+<subcallout>노무현, 이회창, 권영길, 정몽준 등</subcallout>
+
+::: {#cr-16}
+<center>![](images/%EB%8C%80%EC%84%A0%EC%A7%81%EC%A0%84_%EC%B5%9C%EC%A2%85_16%EB%8C%80.jpeg){width="100%" height="100%"}</center>
+:::
+
+
+<subcallout>제16대 대선은 **노무현** 대통령.</subcallout> @cr-16
+
+<!-----------------------------제17대 선거--------------------------------------->
+<callout>제17대 대선</callout> @cr-intro
+
+<subcallout>이명박, 정동영, 이회창, 문국현 등</subcallout>
+
+::: {#cr-17}
+<center>![](images/%EB%8C%80%EC%84%A0%EC%A7%81%EC%A0%84_%EC%B5%9C%EC%A2%85_17%EB%8C%80.jpeg){width="100%" height="100%"}</center>
+:::
+
+
+<subcallout>제17대 대선은 **이명박** 대통령.</subcallout> @cr-17
+
+
+<!-----------------------------제18대 선거--------------------------------------->
+<callout>제18대 대선</callout> @cr-intro
+
+<subcallout> 박근혜, 문재인, 등</subcallout>
+
+::: {#cr-18}
+<center>![](images/%EB%8C%80%EC%84%A0%EC%A7%81%EC%A0%84_%EC%B5%9C%EC%A2%85_18%EB%8C%80.jpeg){width="100%" height="100%"}</center>
+:::
+
+
+<subcallout>제18대 대선은 **박근혜** 대통령.</subcallout> @cr-18
+
+
+<!-----------------------------제19대 선거--------------------------------------->
+<callout>제19대 대선</callout> @cr-intro
+
+<subcallout>문재인, 홍준표, 안철수, 유승민, 심상정 등</subcallout>
+
+::: {#cr-19}
+<center>![](images/%EB%8C%80%EC%84%A0%EC%A7%81%EC%A0%84_%EC%B5%9C%EC%A2%85_19%EB%8C%80.jpeg){width="100%" height="100%"}</center>
+:::
+
+
+<subcallout>제19대 대선은 **문재인** 대통령.</subcallout> @cr-19
+
+
+<!-----------------------------제16대 선거--------------------------------------->
+<callout>제20대 대선</callout> @cr-intro
+
+<subcallout>윤석열, 이재명, 심상정, 안철수 등</subcallout>
+
+::: {#cr-20}
+<center>![](images/%EB%8C%80%EC%84%A0%EC%A7%81%EC%A0%84_%EC%B5%9C%EC%A2%85_20%EB%8C%80.jpeg){width="100%" height="100%"}</center>
+:::
+
+
+<subcallout>제20대 대선은 **윤석열** 대통령.</subcallout> @cr-20
+
+
